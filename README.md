@@ -15,7 +15,7 @@ The purpose of this project was to explore my year in training using the Strava 
 * Majority of activities in a particular heart rate zone
 * Monthly intensity average relative to perceived effort and max heartrate
 * Weekly intensity (current vs last week) - interactive
-* Average heartrate and speed in mph
+* Average heartrate and speed in mph - interactive
 * Current week training log - interactive
 
 **Project still in progress**
