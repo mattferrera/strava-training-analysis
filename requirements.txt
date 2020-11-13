@@ -1,0 +1,15 @@
+pip install altair vega_datasets
+
+pip install matplotlib
+
+pip install numpy
+
+pip install pandas
+
+pip install pygal
+
+pip install seaborn
+
+pip install stravaio
+
+pip install stravalib
