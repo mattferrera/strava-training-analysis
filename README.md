@@ -14,9 +14,9 @@ The purpose of this project was to explore my year in training using the Strava 
 * Time spent in heart rate zone
 * Majority of activities in a particular heart rate zone
 * Monthly intensity average relative to perceived effort and max heartrate
-* Weekly intensity (current vs last week)
+* Weekly intensity (current vs last week) - interactive
 * Average heartrate and speed in mph
-* Current week training log
+* Current week training log - interactive
 
 **Project still in progress**
 
@@ -35,4 +35,8 @@ The purpose of this project was to explore my year in training using the Strava 
 * Retrieve API credentials from https://www.strava.com/settings/api and insert in config.py file
 * Uncomment the code in the first cell and execute to retrieve the access_token
 * Copy the access token from the output from the first cell execution and insert into the config.py file
+* Copy and paste file path of your .svg file into your browser to interact with the weekly intensity and the current week training log data outputs 
 
+![](weekly_intensity.JPG)
+
+![](current_week_training_log.JPG)
