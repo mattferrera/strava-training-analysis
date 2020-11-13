@@ -18,6 +18,8 @@ The purpose of this project was to explore my year in training using the Strava 
 * Average heartrate and speed in mph
 * Current week training log
 
+**Project still in progress**
+
 ## Technology Requirements 
 * Altair
 * Matplotlib
