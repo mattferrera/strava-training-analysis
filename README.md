@@ -47,8 +47,8 @@ The purpose of this project was to explore my year in training using the Strava 
 
 ![](intensity_average.JPG)
 
-![](heartrate_type.JPG)
-
 ![](weekly_intensity.JPG)
 
 ![](current_week_training_log.JPG)
+
+![](heartrate_type.JPG)
