@@ -37,6 +37,18 @@ The purpose of this project was to explore my year in training using the Strava 
 * Copy the access token from the output from the first cell execution and insert into the config.py file
 * Copy and paste file path of your .svg file into your browser to interact with the weekly intensity and the current week training log data outputs 
 
+![](hours_trained_per_month.JPG)
+
+![](hours_trained_per_week.JPG)
+
+![](hours_day_of_week.JPG)
+
+![](heartrate_histogram.JPG)
+
+![](intensity_average.JPG)
+
+![](heartrate_type.JPG)
+
 ![](weekly_intensity.JPG)
 
 ![](current_week_training_log.JPG)
